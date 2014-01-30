@@ -1,0 +1,26 @@
+{
+  "name": "ractive-todos",
+  "version": "1.0.2",
+  "description": "A small todo app to help me experiment with ractive.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Zeus Lalkaka"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.0",
+    "mongoose": "~3.6.19",
+    "baucis": "~0.6.13"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ractive-todos@1.0.2",
+  "dist": {
+    "shasum": "3e0d588b071306de8fcb945df353e7dc15b283a2"
+  },
+  "_from": "ractive-todos@1.0.2",
+  "_resolved": "https://registry.npmjs.org/ractive-todos/-/ractive-todos-1.0.2.tgz"
+}
